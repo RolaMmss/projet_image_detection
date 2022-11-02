@@ -1,5 +1,5 @@
 # projet_image_detection
-projet sas IA rola anas léon 
+Projet SAS IA : rola, anas,et léon 
 
 
 
