@@ -1,4 +1,5 @@
 # Développez une application avec Django qui intègre une API d'IA
+Développez une application avec Django qui intègre une API d'IA
 Projet SAS IA : rola, anas,et léon 
 
 
